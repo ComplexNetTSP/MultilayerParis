@@ -1,8 +1,10 @@
 # Paris Multilayer Transport Network
 
+This repository contains the multimodal transport networks of [Ile-de-France](https://en.wikipedia.org/wiki/%C3%8Ele-de-France) region in France (which contains Paris city).   
+
 Please reference the following papers when using with this data:
 
-F. Asgari , A. Sultan , H. Xiong , V. Gauthier, , M. A. El-Yacoubi, "CT-Mapper: Mapping sparse multimodal cellular trajectories using a multilayer transportation network", in Computer Communications SI on Mobile Traffic Analytics, vol. 95, 2016. DOI: 10.1016/j.comcom.2016.04.014
+_F. Asgari , A. Sultan , H. Xiong , V. Gauthier, , M. A. El-Yacoubi_, "**CT-Mapper: Mapping sparse multimodal cellular trajectories using a multilayer transportation network**", in Computer Communications SI on Mobile Traffic Analytics, vol. 95, 2016. DOI: 10.1016/j.comcom.2016.04.014
 
 ## Properties
 ### Nodes
