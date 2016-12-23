@@ -26,7 +26,7 @@ This filed could only takes four following values
 2. train
 3. metro
 
-### Edges
+### Edges properties
 #### Name
 The name could be:
 
