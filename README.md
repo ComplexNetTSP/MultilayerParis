@@ -1,6 +1,6 @@
 # Paris Multilayer Transport Network
 
-This repository contains the multimodal transport networks of [Ile-de-France](https://en.wikipedia.org/wiki/%C3%8Ele-de-France) region in France (which contains Paris city).   
+This repository contains the multimodal transport networks of [Ile-de-France](https://en.wikipedia.org/wiki/%C3%8Ele-de-France) region in France (which contains Paris city). The graph of the transport networks is provided under various format (graphml, gml, edge and vertex files format).   
 
 Please reference the following papers when using with this data:
 
