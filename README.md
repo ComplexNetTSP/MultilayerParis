@@ -1,6 +1,6 @@
 # Paris Multilayer Transport Network
 
-This repository contains the multimodal transport networks of [Ile-de-France](https://en.wikipedia.org/wiki/%C3%8Ele-de-France) region in France (which contains Paris city). The graph of the transport networks is provided under various format (graphml, gml, edge and vertex files format).   
+This repository contains the multimodal transport networks of [Ile-de-France](https://en.wikipedia.org/wiki/%C3%8Ele-de-France) region in France (which contains Paris city). The graph of the transport networks is provided under various format (graphml, gml, edge and vertex files format). the network is composed of three layers: the road network, [the train network](https://en.wikipedia.org/wiki/R%C3%A9seau_Express_R%C3%A9gional) is a hybrid commuter rapid transit system in France serving Paris and its suburbs and the [subway network](https://en.wikipedia.org/wiki/Paris_M%C3%A9tro) which is only present inside the paris city limits.     
 
 Please reference the following papers when using with this data:
 
@@ -11,7 +11,7 @@ _F. Asgari , A. Sultan , H. Xiong , V. Gauthier, , M. A. El-Yacoubi_, "**CT-Mapp
 #### Lat, Lon
 
 ### Edges
-### Name 
+### Name
 
 ### Direction
 1. TwoWay
