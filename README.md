@@ -17,9 +17,22 @@ _F. Asgari , A. Sultan , H. Xiong , V. Gauthier, , M. A. El-Yacoubi_, "**CT-Mapp
 ## Vertices and edges properties
 ### Vertices properties
 #### Lat, Lon
+The latitude and the longitude formated to the standard coordinate system [WSG 84](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84).
+
+#### Layer
+This filed could only takes four following values
+
+1. road
+2. train
+3. metro
 
 ### Edges
 #### Name
+The name could be:
+
+1. road name
+2. Subway line name
+3. Train line name
 
 #### Direction
 This filed could only takes two followings values:
@@ -27,7 +40,7 @@ This filed could only takes two followings values:
 1. TwoWay
 2. OneWay
 
-#### Layers
+#### Layer
 This filed could only takes four following values
 
 1. road
